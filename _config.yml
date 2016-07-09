@@ -11,7 +11,7 @@ email: maxkooh@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm an engineering student with a passion for manufacturing, systems, and design.  Not only that, I decided to develop software on the side!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "www.maxkooh.com" # the base hostname & protocol for your site
 github_username:  mkooh
 linkedin_username: maxkooh
 
