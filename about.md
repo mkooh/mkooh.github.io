@@ -10,4 +10,4 @@ Currently I am working on developing my first application for Windows 10.  While
 
 You can also download my resume here:  [Max Kooh's Resume][1]
 
-[1]:{{ site.url }}/download/MaxKoohResume.pdf
+[1]:/download/MaxKoohResume.pdf
